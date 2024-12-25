@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\src\\MovieAPI2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2FF851-EA28-47C5-83C1-35BA18BBAB1E}|MovieAPI2.csproj|e:\\src\\movieapi2\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2FF851-EA28-47C5-83C1-35BA18BBAB1E}|MovieAPI2.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2FF851-EA28-47C5-83C1-35BA18BBAB1E}|MovieAPI2.csproj|e:\\src\\movieapi2\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2FF851-EA28-47C5-83C1-35BA18BBAB1E}|MovieAPI2.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2FF851-EA28-47C5-83C1-35BA18BBAB1E}|MovieAPI2.csproj|e:\\src\\movieapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2FF851-EA28-47C5-83C1-35BA18BBAB1E}|MovieAPI2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2FF851-EA28-47C5-83C1-35BA18BBAB1E}|MovieAPI2.csproj|e:\\src\\movieapi2\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2FF851-EA28-47C5-83C1-35BA18BBAB1E}|MovieAPI2.csproj|solutionrelative:mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2FF851-EA28-47C5-83C1-35BA18BBAB1E}|MovieAPI2.csproj|e:\\src\\movieapi2\\add-migration modifiedstudententity.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BE2FF851-EA28-47C5-83C1-35BA18BBAB1E}|MovieAPI2.csproj|solutionrelative:add-migration modifiedstudententity.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "add-migration ModifiedStudentEntity.txt",
+              "DocumentMoniker": "E:\\src\\MovieAPI2\\add-migration ModifiedStudentEntity.txt",
+              "RelativeDocumentMoniker": "add-migration ModifiedStudentEntity.txt",
+              "ToolTip": "E:\\src\\MovieAPI2\\add-migration ModifiedStudentEntity.txt",
+              "RelativeToolTip": "add-migration ModifiedStudentEntity.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-24T09:37:04.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "E:\\src\\MovieAPI2\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
+              "ToolTip": "E:\\src\\MovieAPI2\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAvwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:31:26.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "E:\\src\\MovieAPI2\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "E:\\src\\MovieAPI2\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAlwDcBAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:54:03.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\src\\MovieAPI2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\src\\MovieAPI2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:14:53.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "E:\\src\\MovieAPI2\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "MappingProfiles.cs",
+              "ToolTip": "E:\\src\\MovieAPI2\\MappingProfiles.cs",
+              "RelativeToolTip": "MappingProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:14:40.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

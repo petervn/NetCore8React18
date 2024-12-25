@@ -1,0 +1,7 @@
+add-migration "ModifiedStudentEntity"
+
+   response.Status = false;
+                response.Message = "Somthing went wrong";
+                return BadRequest(response);
+
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
